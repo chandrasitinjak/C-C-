@@ -1,5 +1,6 @@
-#include <bits/stdc++.h>
+//Belum selesai
 
+#include <bits/stdc++.h>
 using namespace std;
 
 void FungsiKomposisi(int A, int B, int K,int x) {
